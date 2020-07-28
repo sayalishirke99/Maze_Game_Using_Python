@@ -1,5 +1,8 @@
 # Maze_Game_Using_Python
 
+This is our outputs!
+
+
 ![difficult](https://user-images.githubusercontent.com/57183634/88657532-b3c4c600-d0ef-11ea-9ac2-2da1b322d3e2.PNG)
 ![easy](https://user-images.githubusercontent.com/57183634/88657534-b4f5f300-d0ef-11ea-93c4-9d20f6c28aaa.PNG)
 ![first page](https://user-images.githubusercontent.com/57183634/88657535-b4f5f300-d0ef-11ea-98a6-d98bdc7c84a8.PNG)
